@@ -1,3 +1,1 @@
-My first readme
-
-**The subtle Art of Not Giving a Fuck**
+My first README
